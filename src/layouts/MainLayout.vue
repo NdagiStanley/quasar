@@ -2,7 +2,7 @@
   <q-layout view="lHh Lpr lFf">
     <q-header class="bg-white text-grey-10" bordered>
       <q-toolbar>
-        <q-toolbar-title>App</q-toolbar-title>
+        <q-toolbar-title class="text-tangerine">App</q-toolbar-title>
       </q-toolbar>
     </q-header>
 
